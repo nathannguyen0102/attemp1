@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/attemp1/static/css/main.d5d31f16.chunk.css",
+    "main.js": "/attemp1/static/js/main.a4fbe530.chunk.js",
+    "main.js.map": "/attemp1/static/js/main.a4fbe530.chunk.js.map",
+    "runtime-main.js": "/attemp1/static/js/runtime-main.c6dbe130.js",
+    "runtime-main.js.map": "/attemp1/static/js/runtime-main.c6dbe130.js.map",
+    "static/js/2.af0d4b87.chunk.js": "/attemp1/static/js/2.af0d4b87.chunk.js",
+    "static/js/2.af0d4b87.chunk.js.map": "/attemp1/static/js/2.af0d4b87.chunk.js.map",
+    "static/js/3.8bd1639f.chunk.js": "/attemp1/static/js/3.8bd1639f.chunk.js",
+    "static/js/3.8bd1639f.chunk.js.map": "/attemp1/static/js/3.8bd1639f.chunk.js.map",
+    "index.html": "/attemp1/index.html",
+    "precache-manifest.266d61c2068ba96c5c609e45aa37c853.js": "/attemp1/precache-manifest.266d61c2068ba96c5c609e45aa37c853.js",
+    "service-worker.js": "/attemp1/service-worker.js",
+    "static/css/main.d5d31f16.chunk.css.map": "/attemp1/static/css/main.d5d31f16.chunk.css.map",
+    "static/js/2.af0d4b87.chunk.js.LICENSE.txt": "/attemp1/static/js/2.af0d4b87.chunk.js.LICENSE.txt",
+    "static/media/1.jfif": "/attemp1/static/media/1.b21c84b6.jfif",
+    "static/media/Owais' Resume.pdf": "/attemp1/static/media/Owais' Resume.e4a20cf4.pdf",
+    "static/media/auto-tracker-image.png": "/attemp1/static/media/auto-tracker-image.5035699a.png",
+    "static/media/budget-tracker-image.png": "/attemp1/static/media/budget-tracker-image.09e6ae3d.png",
+    "static/media/flash-beats-image.gif": "/attemp1/static/media/flash-beats-image.d92efe25.gif",
+    "static/media/living-real-image.png": "/attemp1/static/media/living-real-image.d8671f83.png",
+    "static/media/note-taker-image.png": "/attemp1/static/media/note-taker-image.fd14fff8.png",
+    "static/media/password-generator-image.png": "/attemp1/static/media/password-generator-image.0e54790e.png",
+    "static/media/recent-photo.jpg": "/attemp1/static/media/recent-photo.e232e25f.jpg",
+    "static/media/weather-dashboard-image.png": "/attemp1/static/media/weather-dashboard-image.5db07b5c.png",
+    "static/media/webpage-screenshot.png": "/attemp1/static/media/webpage-screenshot.2524a8b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6dbe130.js",
+    "static/js/2.af0d4b87.chunk.js",
+    "static/css/main.d5d31f16.chunk.css",
+    "static/js/main.a4fbe530.chunk.js"
+  ]
+}
